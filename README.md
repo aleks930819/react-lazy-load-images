@@ -6,3 +6,5 @@ Lazyloading is a technique that defers loading of non-critical resources at page
 
 The Intersection Observer API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document's viewport.
 
+## Demo
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/107752460/235442222-793523bc-46da-4d8f-bcc3-9f9b3a9bf149.gif)
