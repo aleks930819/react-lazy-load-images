@@ -8,7 +8,7 @@ const Posts = ({ jsonData }) => {
       style={{
         display: 'grid',
         gridTemplateColumns: 'repeat(1, 1fr)',
-        width: '50%',
+        width: '80vw',
         gridGap: '1rem',
         margin: '0 auto',
         padding:'1rem'
